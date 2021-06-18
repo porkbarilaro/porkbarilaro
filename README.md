@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**porkbarilaro/porkbarilaro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You have probably found yourself here while browsing https://porkbarilaro.info.
 
-Here are some ideas to get you started:
+That site is produced using Github Pages. With a little effort, you can contribute content to the site. You will need to:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Sign up for (and sign in with) a Github account
+* While signed in, visit https://github.com/porkbarilaro/porkbarilaro/tree/gh-pages
+* Click 'Add file', or - when viewing an existing page - click the Edit (pen icon) button
+* Make your changes & additions and click "commit changes"
+* Raise a pull request
+
+Once a pull request has been raised, the site administrator can choose to publish your content or discuss the changes further with you prior to publishing.
+
+Please make sure to provide references along with any content you add - the goal of the site is to capture factual information.
